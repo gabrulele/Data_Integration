@@ -2,3 +2,7 @@
 /deepmatcher
 /deepmatcher3.9
 /.vs
+
+# GIT
+/.gitignore
+/.gitattributes
